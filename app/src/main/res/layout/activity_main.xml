@@ -34,7 +34,7 @@
         android:layout_width="269dp"
         android:layout_height="47dp"
         android:layout_marginStart="72dp"
-        android:background="@drawable/ic_launcher_background"
+        android:background="@drawable/img01nd"
         android:fontFamily="sans-serif-smallcaps"
         android:onClick="go"
         android:text="Animate"
